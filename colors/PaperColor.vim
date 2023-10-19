@@ -108,7 +108,7 @@ fun! s:register_default_theme()
         \       'buftabline_active_fg':   ['#eeeeee', '255'],
         \       'buftabline_active_bg':   ['#005faf', '25'],
         \       'buftabline_inactive_fg': ['#eeeeee', '255'],
-        \       'buftabline_inactive_bg': ['#0087af', '31']
+        \       'buftabline_inactive_bg': ['#707070', '112']
         \     }
         \   }
 
