@@ -102,13 +102,13 @@ fun! s:register_default_theme()
         \       'tabline_active_bg':   ['#e4e4e4', '254'],
         \       'tabline_inactive_fg': ['#eeeeee', '255'],
         \       'tabline_inactive_bg': ['#0087af', '31'],
-        \       'buftabline_bg':          ['#707070', '112'],
+        \       'buftabline_bg':          ['#f8f8f8', '248'],
         \       'buftabline_current_fg':  ['#444444', '238'],
         \       'buftabline_current_bg':  ['#e4e4e4', '254'],
-        \       'buftabline_active_fg':   ['#eeeeee', '255'],
+        \       'buftabline_active_fg':   ['#ffffff', '255'],
         \       'buftabline_active_bg':   ['#005faf', '25'],
         \       'buftabline_inactive_fg': ['#eeeeee', '255'],
-        \       'buftabline_inactive_bg': ['#707070', '112']
+        \       'buftabline_inactive_bg': ['#f8f8f8', '248']
         \     }
         \   }
 
