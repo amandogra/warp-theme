@@ -97,7 +97,7 @@ fun! s:register_default_theme()
         \       'difftext_bg':   ['#ffffd7', '230'],
         \       'diffchange_fg': ['#444444', '238'],
         \       'diffchange_bg': ['#ffd787', '222'],
-        \       'tabline_bg':          ['#707070', '112'],
+        \       'tabline_bg':          ['#f8f8f8', '248'],
         \       'tabline_active_fg':   ['#444444', '238'],
         \       'tabline_active_bg':   ['#e4e4e4', '254'],
         \       'tabline_inactive_fg': ['#eeeeee', '255'],
