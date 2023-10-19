@@ -37,7 +37,7 @@ fun! s:register_default_theme()
         \     'NO_CONVERSION': 1,
         \     'TEST_256_COLOR_CONSISTENCY' : 1,
         \     'palette' : {
-        \       'color00' : ['#eeeeee', '255'],
+        \       'color00' : ['#000000', '255'],
         \       'color01' : ['#af0000', '124'],
         \       'color02' : ['#008700', '28'],
         \       'color03' : ['#5f8700', '64'],
